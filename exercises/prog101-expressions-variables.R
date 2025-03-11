@@ -7,9 +7,9 @@ triangle_area <- 1/2 * base * height
 cylinder_volume <- pi * radius^2 * height
 
 # What are the errors in these expressions?
-speed_m_s <- distance_m * time_s
+speed_m_s <- distance_m / time_s
 acceleration_m_s2 <- speed_m_s / time_s
-force_N < mass * acceleration_m_s2
+force_N <- mass * acceleration_m_s2
 
 # The energy density of market squid is 4850 joules per gram[1]. If a 225 kg
 # Risso's dolphin needs 5 million joules of energy per day[2] and a typical

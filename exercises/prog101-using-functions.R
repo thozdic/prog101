@@ -10,6 +10,7 @@ sin(0)
 
 # What do you think the following functions do? Just go off the name, don't look
 # them up.
-read.csv() # reads code for you?
+read.csv() # reads data for you
 boxplot() # makes a box plot for you with given data?
-startsWith() # to identify the first variable in a set?
+startsWith() # tells you if a sting starts with another one. Ex: it'll tell you
+# "cat" starts with "ca" but "dog" doesn't
